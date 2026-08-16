@@ -7,9 +7,11 @@ Author: jyotsna2029
 Author-email: chauhanjyotsna049@gmail.com
 Project-URL: Bug Tracker, https://github.com/jyotsna2029/text-summarizer/issues
 Description-Content-Type: text/markdown
+License-File: LICENSE
 Dynamic: author
 Dynamic: author-email
 Dynamic: description-content-type
 Dynamic: home-page
+Dynamic: license-file
 Dynamic: project-url
 Dynamic: summary
